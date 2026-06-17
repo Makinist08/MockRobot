@@ -1,4 +1,4 @@
-package designStructures.IterativeDependency.window;
+package IterativeDependency.window;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -10,8 +10,8 @@ import java.util.List;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-import designStructures.IterativeDependency.dependencies.Dependency;
-import designStructures.IterativeDependency.dependencies.DependencyHandler;
+import IterativeDependency.dependencies.Dependency;
+import IterativeDependency.dependencies.DependencyHandler;
 
 public class Window extends JFrame{
     private JPanel dependencyPanel;

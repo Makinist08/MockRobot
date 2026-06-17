@@ -1,7 +1,7 @@
-package designStructures.IterativeDependency;
+package IterativeDependency;
 
-import designStructures.IterativeDependency.dependencies.motor.Motor;
-import designStructures.IterativeDependency.window.Window;
+import IterativeDependency.dependencies.motor.Motor;
+import IterativeDependency.window.Window;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException{

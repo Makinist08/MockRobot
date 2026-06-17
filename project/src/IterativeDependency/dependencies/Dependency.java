@@ -1,4 +1,4 @@
-package designStructures.IterativeDependency.dependencies;
+package IterativeDependency.dependencies;
 
 import javax.swing.JComponent;
 

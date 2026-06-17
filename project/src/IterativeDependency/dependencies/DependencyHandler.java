@@ -1,4 +1,4 @@
-package designStructures.IterativeDependency.dependencies;
+package IterativeDependency.dependencies;
 
 import java.util.HashSet;
 import java.util.Set;

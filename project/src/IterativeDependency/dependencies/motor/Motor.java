@@ -1,4 +1,4 @@
-package designStructures.IterativeDependency.dependencies.motor;
+package IterativeDependency.dependencies.motor;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
@@ -9,7 +9,7 @@ import javax.swing.JComponent;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import designStructures.IterativeDependency.dependencies.Dependency;
+import IterativeDependency.dependencies.Dependency;
 
 public class Motor extends Dependency{
     private double speed;
